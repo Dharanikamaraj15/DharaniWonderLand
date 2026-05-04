@@ -1,12 +1,11 @@
-# fruits = ("apple", "banana", "cherry",1,123)
+# fruits = {"apple", "banana", "cherry",1,123} - CURLY BRACETS
 # print(fruits)
 
 #Lists: Ordered
-# names= ("Aadhya", "Bala", "Candy")
-# names1 =("A","B","C")
-# print(names[0])
-# print(names)
-# print(names1)
+names= {"Aadhya", "Bala", "Candy"}
+names1 ={"A","B","C"}
+print(names)
+print(names1)
 
 #Lists: Mutable -Error- Not woring
 # names= ("Aadhya", "Bala", "Candy")

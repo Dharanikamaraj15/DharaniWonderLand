@@ -67,14 +67,41 @@
 # print("Number of characters:", count)
 
 #Create a number guessing loop in python 
-print("Guessing number program")
-secret_number = 2
-while True:
-    guess = int(input("Guess the number: "))
+# print("Guessing number program")
+# secret_number = 2
+# while True:
+#     guess = int(input("Guess the number: "))
 
-    if guess == secret_number:
-        print("Correct! You guessed the number.")
-        break
-    else:
-        print("Try again!")
-        print("End than you!")
+#     if guess == secret_number:
+#         print("Correct! You guessed the number.")
+#         break
+#     else:
+#         print("Try again!")
+#         print("End than you!")
+
+#Print inverted star pattern using loop in python
+
+# n=1
+# while(n<6):
+#     print("*")
+#     n+=1
+
+# for i in range(5):
+#    for j in range(5):
+#        print(i,i)
+
+# n=0
+# while(n<6):
+#     n+=1
+#     for i in range(n+1):
+#         print(n,i)
+
+# i = 1
+# while i <= 5:
+#     print("*" * i)
+#     i += 1
+
+# Using for loop
+# for i in range(1, 6):
+#     print("*" * i)
+

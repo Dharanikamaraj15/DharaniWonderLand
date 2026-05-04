@@ -8,13 +8,13 @@
 # print(names)
 # print(names1)
 
-#Lists: Mutable
-# names= ["Aadhya", "Bala", "Candy"]
-# names1 =["A","B","C"]
-# print(names)
-# print(names1)
-# names[2]="Dharani"
-# print(names)
+#Lists: Mutable 
+names= ["Aadhya", "Bala", "Candy"]
+names1 =["A","B","C"]
+print(names)
+print(names1)
+names[2]="Dharani"
+print(names)
 
 #Lists: Duplicates
 # names= ["Aadhya", "Bala", "Candy", "Aadhya", "aadhya"]
