@@ -12,7 +12,13 @@ Day 10- Conditional statements
 Day 11- No Class
 Day 12- Loop
 Day 13- No Class
-Day 14- 
-
-
-
+Day 14- Functions and strings
+Day 15- No class
+Day 16- Pacages
+Day 17- No class
+Day 18- Array
+Day 19- File handling
+Day 20- Recall Python
+Day 21- No class
+Day 22- No class
+Day 23- May 4-
