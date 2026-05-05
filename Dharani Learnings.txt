@@ -21,4 +21,5 @@ Day 19- File handling
 Day 20- Recall Python
 Day 21- No class
 Day 22- No class
-Day 23- May 4-
+Day 23- May 4- Numpy
+Day 24- Numpy and Pandas

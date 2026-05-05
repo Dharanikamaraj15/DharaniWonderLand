@@ -1,14 +1,14 @@
 # fruits = ("apple", "banana", "cherry",1,123) - CIRCLE BRACETS
 # print(fruits)
 
-#Lists: Ordered
+#Tuple: Ordered
 # names= ("Aadhya", "Bala", "Candy")
 # names1 =("A","B","C")
 # print(names[0])
 # print(names)
 # print(names1)
 
-#Lists: Mutable -Error- Not woring
+#Tuple: Mutable -Error- Not woring
 # names= ("Aadhya", "Bala", "Candy")
 # names1 =("A","B","C")
 # print(names)
@@ -16,17 +16,17 @@
 # names[2]="Dharani"
 # print(names)
 
-#Lists: Duplicates
+#Tuple: Duplicates
 # names= ("Aadhya", "Bala", "Candy", "Aadhya", "aadhya")
 # print(names)
 
-#Lists: Indexing
+#Tuple: Indexing
 # names= ("Aadhya", "Bala", "Candy")
 # print(names)
 # print(names[0])
 # print(names[-1])
 # print(names[2])
 
-#Lists: eyvalue pair
+#Tuple: eyvalue pair
 # names= ["name": "Aadhya", "Age:" "35"]
 # --Not woring

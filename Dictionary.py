@@ -1,31 +1,32 @@
 # fruits = {"apple", "banana", "cherry",1,123} - CURLY BRACETS
+# fruits={ "name" :"Apple", "color" : "red"}
 # print(fruits)
 
-#Lists: Ordered
-names= {"Aadhya", "Bala", "Candy"}
-names1 ={"A","B","C"}
-print(names)
-print(names1)
+# print(fruits)
 
-#Lists: Mutable -Error- Not woring
-# names= ("Aadhya", "Bala", "Candy")
-# names1 =("A","B","C")
+#Dictionary: Ordered
+# fruits={ "name" :"Apple", "color" : "red", "plan" : "123"}
+# print(fruits)
 # print(names)
 # print(names1)
-# names[2]="Dharani"
+
+##Dictionary: Mutable 
+# fruits={ "name" :"Apple", "color" : "red", "plan" : "123"}
+# fruits["name"]= "Dharani"
+# print(fruits)
+
+
+#Dictionary: Duplicates -- Unable to understand
+# fruits={ "name" :"Apple", "color" : "red", "plan" : "123"}
+# fruits["name"] = "Apples"
+# fruits["color"]= "reds"
+# print(fruits)
+
+#Dictionary: Indexing - Not woring
+# fruits={ "name" :"Apple", "color" : "red", "plan" : "123"}
+# print(fruits[0])
+
+#Dictionary: eyvalue pair
+# names= ["name: " "Aadhya", "Age:" "35"]
 # print(names)
 
-#Lists: Duplicates
-# names= ("Aadhya", "Bala", "Candy", "Aadhya", "aadhya")
-# print(names)
-
-#Lists: Indexing
-# names= ("Aadhya", "Bala", "Candy")
-# print(names)
-# print(names[0])
-# print(names[-1])
-# print(names[2])
-
-#Lists: eyvalue pair
-# names= ["name": "Aadhya", "Age:" "35"]
-# --Not woring
