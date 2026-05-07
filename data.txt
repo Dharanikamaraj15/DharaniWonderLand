@@ -1,0 +1,4 @@
+Hello World
+How are you
+I'm learning Python
+GEN AI will be learnt this month.

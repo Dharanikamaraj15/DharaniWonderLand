@@ -23,3 +23,5 @@ Day 21- No class
 Day 22- No class
 Day 23- May 4- Numpy
 Day 24- Numpy and Pandas
+Day 25- No class
+Day 26-
